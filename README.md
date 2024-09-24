@@ -6,27 +6,27 @@
 
 ### 
 
-<h4 align="center" style="color: #00ffcc;">"Hello! 👋✨ | नमस्ते! 🙏✨"</h4>
+<h4 align="center">"Hello! 👋✨ | नमस्ते! 🙏✨"</h4>
 
 ### 
 
-<h1 align="center" style="color: #ffffff;">Harsh this side</h1>
+<h1 align="center">Harsh this side</h1>
 
 ### 
 
-<h4 align="center" style="color: #00ffcc;">⚔️ Winter is Code... | About Me 🐺</h4>
+<h4 align="center">⚔️ Winter is Code... | About Me 🐺</h4>
 
 ### 
 
-<p align="center" style="color: #cccccc;">I am a second-year Computer Science and Engineering (CST) student at Maharaja Agrasen Institute of Technology (MAIT), GGSIPU. Passionate about technology, I am continuously learning and exploring new fields in computer science to expand my skill set. Currently, I am a member of the Google Developer Group (GDG), where I actively engage in community activities and collaborate on projects.<br><br>In my free time, I enjoy playing Valorant, designing, and participating in sports, as they help me maintain a balance between academic and personal growth.</p>
+<p align="center">I am a second-year Computer Science and Engineering (CST) student at Maharaja Agrasen Institute of Technology (MAIT), GGSIPU. Passionate about technology, I am continuously learning and exploring new fields in computer science to expand my skill set. Currently, I am a member of the Google Developer Group (GDG), where I actively engage in community activities and collaborate on projects.<br><br>In my free time, I enjoy playing Valorant, designing, and participating in sports, as they help me maintain a balance between academic and personal growth.</p>
 
 ### 
 
-<h1 align="center" style="color: #ffffff;">My Armory : ⚔️</h1>
+<h1 align="center" style="color: #00ffcc;">My Armory : ⚔️</h1>
 
 ### 
 
-<h3 align="left" style="color: #00ffcc;">🌐 - Web Development</h3>
+<h3 align="left" style="color: #ffcc00;">🌐 - Web Development</h3>
 
 ### 
 
@@ -50,7 +50,7 @@
 
 ### 
 
-<h3 align="left" style="color: #00ffcc;">🅰️अ - Languages</h3>
+<h3 align="left" style="color: #ffcc00;">🅰️अ - Languages</h3>
 
 ### 
 
@@ -66,43 +66,43 @@
 
 ### 
 
-<h1 align="center" style="color: #ffffff;">🔥 Featured Projects 🏆</h1>
+<h1 align="center" style="color: #00ffcc;">🔥 Featured Projects 🏆</h1>
 
 ### 
 
-<h2 align="left" style="color: #00ffcc;">🌐 Web Apps:</h2>
+<h2 align="left" style="color: #ffcc00;">🌐 Web Apps:</h2>
 
 ### 
 
-<h3 align="left" style="color: #ffffff;">1. The Citadel :  🛡️</h3>
+<h3 align="left">1. The Citadel :  🛡️</h3>
 
 ### 
 
-<p align="left" style="color: #cccccc;">Under Construction! A holistic environment for college students to ease their daily lives ;)</p>
+<p align="left">Under Construction! A wholistic environment for college students to ease their daily lives ;)</p>
 
 ### 
 
-<h3 align="left" style="color: #ffffff;">2. San-Sam : ⚖️</h3>
+<h3 align="left">2. San-Sam : ⚖️</h3>
 
 ### 
 
-<p align="left" style="color: #cccccc;">Sansthaein Aur Samvidhan (SanSam) is a 2D simulation game designed to teach constitutional literacy through interactive role-play. Players act as lawmakers in a newly formed nation, making decisions that affect governance, rights, and society. With real-time feedback and engaging scenarios, SanSam simplifies complex legal concepts, making them accessible and fun to learn.</p>
+<p align="left">Sansthaein Aur Samvidhan (SanSam) is a 2D simulation game designed to teach constitutional literacy through interactive role-play. Players act as lawmakers in a newly formed nation, making decisions that affect governance, rights, and society. With real-time feedback and engaging scenarios, SanSam simplifies complex legal concepts, making them accessible and fun to learn.</p>
 
 ### 
 
-<h3 align="left" style="color: #ffffff;">3. LegSell : 🏛️</h3>
+<h3 align="left">3. LegSell : 🏛️</h3>
 
 ### 
 
-<p align="left" style="color: #cccccc;">Just a boilerplate until we get the shit done :) | Sansthaein Aur Samvidhan (SanSam) is a 2D simulation game designed to teach constitutional literacy through interactive role-play. Players act as lawmakers in a newly formed nation, making decisions that affect governance, rights, and society. With real-time feedback and engaging scenarios, SanSam simplifies complex legal concepts, making them accessible and fun to learn.</p>
+<p align="left">Just a boilerplate until we get the shit done :) | Sansthaein Aur Samvidhan (SanSam) is a 2D simulation game designed to teach constitutional literacy through interactive role-play. Players act as lawmakers in a newly formed nation, making decisions that affect governance, rights, and society. With real-time feedback and engaging scenarios, SanSam simplifies complex legal concepts, making them accessible and fun to learn.</p>
 
 ### 
 
-<h2 align="center" style="color: #ffffff;">👑 Socials 👑</h2>
+<h2 align="center" style="color: #00ffcc;">👑 Socials 👑</h2>
 
 ### 
 
-<h5 align="center" style="color: #cccccc;">Ravens may fly, but connections travel faster. Follow the banners below and join the realm!</h5>
+<h5 align="center">Ravens may fly, but connections travel faster. Follow the banners below and join the realm!</h5>
 
 ### 
 
@@ -125,9 +125,5 @@
 ### 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Harsh16Bhardwaj/count.svg?" />
+  <img src="https://profile-counter.glitch.me/Harsh16Bhardwaj/count.svg?"  />
 </div>
-
-### 
-
-<img src="https://raw.githubusercontent.com/Harsh16Bhardwaj/Harsh16Bhardwaj/output/snake.svg" alt="Snake animation" />
