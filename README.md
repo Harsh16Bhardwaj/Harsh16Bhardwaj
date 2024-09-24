@@ -1,34 +1,46 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://www.vecteezy.com/vector-art/25894618-cute-word-hello-cartoon-style-vector-illustration" />
+  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F25894618-cute-word-hello-cartoon-style-vector-illustration&psig=AOvVaw0tUbVUNrVfx5GjL15GxAXt&ust=1727281281014000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCpiav-24gDFQAAAAAdAAAAABAE"  />
 </div>
 
-### 
+###
 
 <h4 align="center">"Hello! 👋✨ | नमस्ते! 🙏✨"</h4>
 
-### 
+###
 
 <h1 align="center">Harsh this side</h1>
 
-### 
+###
+
+<p align="left"></p>
+
+###
 
 <h4 align="center">⚔️ Winter is Code... | About Me 🐺</h4>
 
-### 
+###
 
 <p align="center">I am a second-year Computer Science and Engineering (CST) student at Maharaja Agrasen Institute of Technology (MAIT), GGSIPU. Passionate about technology, I am continuously learning and exploring new fields in computer science to expand my skill set. Currently, I am a member of the Google Developer Group (GDG), where I actively engage in community activities and collaborate on projects.<br><br>In my free time, I enjoy playing Valorant, designing, and participating in sports, as they help me maintain a balance between academic and personal growth.</p>
 
-### 
+###
 
-<h1 align="center" style="color: #00ffcc;">My Armory : ⚔️</h1>
+<p align="left"></p>
 
-### 
+###
 
-<h3 align="left" style="color: #ffcc00;">🌐 - Web Development</h3>
+<h1 align="center">My Armory : ⚔️</h1>
 
-### 
+###
+
+<p align="left"></p>
+
+###
+
+<h3 align="left">🌐 - Web Development</h3>
+
+###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
@@ -48,11 +60,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
 
-### 
+###
 
-<h3 align="left" style="color: #ffcc00;">🅰️अ - Languages</h3>
+<h3 align="left">🅰️अ - Languages</h3>
 
-### 
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -64,47 +76,79 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
 </div>
 
-### 
+###
 
-<h1 align="center" style="color: #00ffcc;">🔥 Featured Projects 🏆</h1>
+<p align="left"></p>
 
-### 
+###
 
-<h2 align="left" style="color: #ffcc00;">🌐 Web Apps:</h2>
+<p align="left"></p>
 
-### 
+###
+
+<h1 align="center">🔥 Featured Projects 🏆</h1>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">🌐 Web Apps:</h2>
+
+###
 
 <h3 align="left">1. The Citadel :  🛡️</h3>
 
-### 
+###
 
 <p align="left">Under Construction! A wholistic environment for college students to ease their daily lives ;)</p>
 
-### 
+###
+
+<p align="left"></p>
+
+###
 
 <h3 align="left">2. San-Sam : ⚖️</h3>
 
-### 
+###
 
 <p align="left">Sansthaein Aur Samvidhan (SanSam) is a 2D simulation game designed to teach constitutional literacy through interactive role-play. Players act as lawmakers in a newly formed nation, making decisions that affect governance, rights, and society. With real-time feedback and engaging scenarios, SanSam simplifies complex legal concepts, making them accessible and fun to learn.</p>
 
-### 
+###
 
-<h3 align="left">3. LegSell : 🏛️</h3>
+<p align="left"></p>
 
-### 
+###
+
+<h3 align="left">2. LegSell : 🏛️</h3>
+
+###
 
 <p align="left">Just a boilerplate until we get the shit done :) | Sansthaein Aur Samvidhan (SanSam) is a 2D simulation game designed to teach constitutional literacy through interactive role-play. Players act as lawmakers in a newly formed nation, making decisions that affect governance, rights, and society. With real-time feedback and engaging scenarios, SanSam simplifies complex legal concepts, making them accessible and fun to learn.</p>
 
-### 
+###
 
-<h2 align="center" style="color: #00ffcc;">👑 Socials 👑</h2>
+<h2 align="left"></h2>
 
-### 
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="center">👑 Socials 👑</h2>
+
+###
+
+<p align="left"></p>
+
+###
 
 <h5 align="center">Ravens may fly, but connections travel faster. Follow the banners below and join the realm!</h5>
 
-### 
+###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="linkedin logo"  />
@@ -115,15 +159,21 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="gmail logo"  />
 </div>
 
-### 
+###
+
+<p align="left"></p>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsh16Bhardwaj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh16Bhardwaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-### 
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Harsh16Bhardwaj/count.svg?"  />
 </div>
+
+###
