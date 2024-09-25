@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F25894618-cute-word-hello-cartoon-style-vector-illustration&psig=AOvVaw0tUbVUNrVfx5GjL15GxAXt&ust=1727281281014000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCpiav-24gDFQAAAAAdAAAAABAE](https://drive.google.com/file/d/1Z24QciWCZGtDbnSKR_kbBE-JELjhGnT3/view?usp=sharing)"  />
+  <img height="200" src="newidk/Red Minimal Talk About Marketing LinkedIn Banner.png"  />
 </div>
 
 ###
