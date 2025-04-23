@@ -37,13 +37,9 @@ Currently learning: **Advanced Next.js**, **Generative AI**, and **GraphQL**.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextjs/000000" height="30" alt="Next.js" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="30" alt="Express" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="MongoDB" />
   <img width="12" />
@@ -53,7 +49,6 @@ Currently learning: **Advanced Next.js**, **Generative AI**, and **GraphQL**.
   <img width="12" />
   <img src="https://cdn.simpleicons.org/prisma/2D3748" height="30" alt="Prisma" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kafka/231F20" height="30" alt="Kafka" />
 </div>
 </details>
 
@@ -63,10 +58,6 @@ Currently learning: **Advanced Next.js**, **Generative AI**, and **GraphQL**.
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="30" alt="Figma" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4B4" height="30" alt="Canva" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="30" alt="Cloudinary" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/socketdotio/010101" height="30" alt="Socket.io" />
   <img width="12" />
