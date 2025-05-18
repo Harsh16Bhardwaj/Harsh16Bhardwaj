@@ -88,8 +88,9 @@ An **AI-powered legal consultancy platform** streamlining case management with a
   - Summarizes court judgments by **67%** using Gemini API and Langflow.
   - Scalable case dashboard with Prisma and Turso, minimizing oversight risks.
   - Backed by Kanoon Database for precise legal insights.
-- **Tech Stack**: Next.js, Langflow, Gemini API, Prisma, SQLite, Turso, Shadcn  
-- **GitHub**: [Link to repository]
+- **Tech Stack**: Next.js, Langflow, Gemini API, Prisma, SQLite, Turso, Shadcn
+- - **GitHub**: [[Link to repository](https://github.com/Harsh16Bhardwaj/NyayVaad)]
+
 
 ### 2. NameFrame 🎉
 An **event certification solution** for generating and sending personalized certificates with real-time previews.  
@@ -98,7 +99,8 @@ An **event certification solution** for generating and sending personalized cert
   - Bypassed Gmail limits using Kafka queues, achieving **99% delivery**.
   - Real-time previews with Canvas API and confetti animations.
 - **Tech Stack**: Next.js, Prisma, PostgreSQL, NeonDB, NodeMailer, Shadcn, Canvas API  
-- **GitHub**: [Link to repository]
+
+- - **GitHub**: [[Link to repository](https://github.com/Harsh16Bhardwaj/NameFrame)]
 
 ### 3. Seedha-Sauda 📱
 A **peer-to-peer file-sharing platform** enabling secure, temporary transfers via QR codes.  
@@ -107,7 +109,7 @@ A **peer-to-peer file-sharing platform** enabling secure, temporary transfers vi
   - Automated file deletion via Cloudinary for enhanced privacy.
   - QR code-based device connections for seamless sharing.
 - **Tech Stack**: MERN, Cloudinary, Socket.io, QR.js, MongoDB  
-- **GitHub**: [Link to repository]
+- **GitHub**: [[Link to repository](https://github.com/Harsh16Bhardwaj/Seedha-Sauda)]
 
 ---
 
