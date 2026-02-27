@@ -19,8 +19,8 @@ I’m a second-year **B.Tech Computer Science and Engineering** student at **Mah
 I excel in high-pressure environments, competing in **5+ hackathons** and **coding competitions** to refine my skills. As a **Frontend Developer** and **Graphic Designer** at **Google Developer Group (GDG) MAIT** and a **Core Technical Team Member** at **TechXtract MAIT**, I contribute to community-driven projects with modern, responsive UIs. Outside coding, I enjoy **Valorant**, **UI/UX design**, and sports to balance my academic and creative pursuits.
 
 Currently learning: **Advanced Next.js**, **Generative AI**, and **GraphQL**.
-Thoughts: "Kamiyabi to der se milti hai dosto, shigrah to patan hota h"
 ---
+Thoughts: "Kamiyabi to der se milti hai dosto, shigrah to patan hota h"
 
 ## 🛠️ Tech Stack
 
